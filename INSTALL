@@ -2,9 +2,6 @@ Install:
 
 aclocal
 autoconf 
-autmake
-automake
-man automake 
 automake -a
 ./configure 
 make
